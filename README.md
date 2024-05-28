@@ -1,8 +1,8 @@
 # AC-TIR
 
-This is the code for the paper "AC-TIR: Fast Anonymous Credentials with Threshold Issunance and Revocation".
+This is the code for the paper "AC-TIR: Fast Anonymous Credentials with Threshold Issuance and Revocation".
 
-This paper proposes a fast anonymous credential scheme that suport threshold issunance and revocation. The code uses the Charm library in Python. Besides, we also provide the implementation of the following schemes:
+This paper proposes a fast anonymous credential scheme that suport threshold issuance and revocation. The code uses the Charm library in Python. Besides, we also provide the implementation of the following schemes:
 
 1. Coconut, NDSS, 2018 [1]
 2. Coconut', eprint Archive, 2022 [2]
